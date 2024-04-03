@@ -6,6 +6,8 @@
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I have a pet snake named Udon.
 
+Find my portfolio and other links on [my website](www.laurenstrapagiel.com).
+
 <!---
 laurenstrapagiel/laurenstrapagiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
